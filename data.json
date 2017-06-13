@@ -1,6 +1,12 @@
 [
+
 {
+"productid":1,
 "name":"The Sun",
+"category":"abstract",
+"description":"Nothing to say"
+"popularity":ture,
+"onsale":ture,
 "price":15
 },
 {

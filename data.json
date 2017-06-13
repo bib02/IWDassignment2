@@ -5,8 +5,8 @@
 "name":"The Sun",
 "category":"abstract",
 "description":"Nothing to say"
-"popularity":ture,
-"onsale":ture,
+"popularity":true,
+"onsale":true,
 "price":15
 },
 {
